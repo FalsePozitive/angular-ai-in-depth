@@ -1,8 +1,8 @@
 {
   "permissions": {
     "allow": [
-      "Edit(/Users/vasco/code/angular-ai-in-depth/**)",
-      "Write(/Users/vasco/code/angular-ai-in-depth/**)",
+      "Edit(./**)",
+      "Write(./**)",
       "Bash(*)"
     ]
   }
